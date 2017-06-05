@@ -1,4 +1,6 @@
 # README
+Program has bugs associated with new rails version. Probably need to use
+an earlier version of rails. 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
